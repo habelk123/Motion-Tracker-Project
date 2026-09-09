@@ -21,4 +21,13 @@ tracks the user's movement through their webcam, by implementing the general CV 
 ## ❔How to Run:
 1. Clone the repository:
 ```bash
-git clone
+git clone https://github.com/habelk123/Motion-Tracker-Project.git
+```
+2. Install dependencies:
+```bash
+pip install opencv-python numpy
+```
+3. Run the project file:
+```bash
+motion_tracker_project.py
+```
