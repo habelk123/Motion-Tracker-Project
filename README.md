@@ -17,3 +17,8 @@ tracks the user's movement through their webcam, by implementing the general CV 
  - Computes centroids (centre of motion regions) and stores the previous centroid to enable motion tracking
  - Displays bounding box's, centroids, and tracking lines on live camera feed to show how motion is perceived in real-time
  - Added overlay to indicate when program is actively tracking vs when it is idle
+
+## ❔How to Run:
+1. Clone the repository:
+```bash
+git clone
